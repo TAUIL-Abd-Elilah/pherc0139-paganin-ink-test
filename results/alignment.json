@@ -1,0 +1,362 @@
+[
+ {
+  "point_zyx": [
+   6000,
+   3300,
+   2600
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   -0.79,
+   0.02,
+   0.04
+  ],
+  "r_peak": 0.803,
+  "r_at_zero": 0.758
+ },
+ {
+  "point_zyx": [
+   6000,
+   3300,
+   2600
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   -0.78,
+   0.02,
+   0.04
+  ],
+  "r_peak": 0.789,
+  "r_at_zero": 0.746
+ },
+ {
+  "point_zyx": [
+   12000,
+   2500,
+   3300
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   -0.63,
+   -0.22,
+   -0.08
+  ],
+  "r_peak": 0.763,
+  "r_at_zero": 0.723
+ },
+ {
+  "point_zyx": [
+   12000,
+   2500,
+   3300
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   -0.62,
+   -0.22,
+   -0.08
+  ],
+  "r_peak": 0.744,
+  "r_at_zero": 0.705
+ },
+ {
+  "point_zyx": [
+   2500,
+   3088,
+   3680
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.25,
+   0.23,
+   -0.03
+  ],
+  "r_peak": 0.748,
+  "r_at_zero": 0.748
+ },
+ {
+  "point_zyx": [
+   2500,
+   3088,
+   3680
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.22,
+   0.24,
+   -0.03
+  ],
+  "r_peak": 0.75,
+  "r_at_zero": 0.75
+ },
+ {
+  "point_zyx": [
+   2500,
+   3136,
+   1184
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   -0.04,
+   0.12,
+   0.11
+  ],
+  "r_peak": 0.849,
+  "r_at_zero": 0.849
+ },
+ {
+  "point_zyx": [
+   2500,
+   3136,
+   1184
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   -0.04,
+   0.12,
+   0.11
+  ],
+  "r_peak": 0.833,
+  "r_at_zero": 0.833
+ },
+ {
+  "point_zyx": [
+   7000,
+   3648,
+   3664
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.05,
+   -0.15,
+   -0.02
+  ],
+  "r_peak": 0.798,
+  "r_at_zero": 0.798
+ },
+ {
+  "point_zyx": [
+   7000,
+   3648,
+   3664
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.04,
+   -0.15,
+   -0.02
+  ],
+  "r_peak": 0.784,
+  "r_at_zero": 0.784
+ },
+ {
+  "point_zyx": [
+   7000,
+   4896,
+   3296
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.26,
+   0.03,
+   -0.0
+  ],
+  "r_peak": 0.861,
+  "r_at_zero": 0.861
+ },
+ {
+  "point_zyx": [
+   7000,
+   4896,
+   3296
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.26,
+   0.03,
+   -0.0
+  ],
+  "r_peak": 0.838,
+  "r_at_zero": 0.838
+ },
+ {
+  "point_zyx": [
+   11500,
+   2080,
+   3376
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.37,
+   0.17,
+   -0.31
+  ],
+  "r_peak": 0.79,
+  "r_at_zero": 0.79
+ },
+ {
+  "point_zyx": [
+   11500,
+   2080,
+   3376
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.37,
+   0.17,
+   -0.3
+  ],
+  "r_peak": 0.768,
+  "r_at_zero": 0.768
+ },
+ {
+  "point_zyx": [
+   11500,
+   1216,
+   2752
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.58,
+   -0.18,
+   -0.09
+  ],
+  "r_peak": 0.802,
+  "r_at_zero": 0.781
+ },
+ {
+  "point_zyx": [
+   11500,
+   1216,
+   2752
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.57,
+   -0.18,
+   -0.09
+  ],
+  "r_peak": 0.782,
+  "r_at_zero": 0.761
+ },
+ {
+  "point_zyx": [
+   16000,
+   3760,
+   3520
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.5,
+   -0.14,
+   -0.02
+  ],
+  "r_peak": 0.707,
+  "r_at_zero": 0.707
+ },
+ {
+  "point_zyx": [
+   16000,
+   3760,
+   3520
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.5,
+   0.09,
+   0.12
+  ],
+  "r_peak": 0.677,
+  "r_at_zero": 0.677
+ },
+ {
+  "point_zyx": [
+   16000,
+   4816,
+   3472
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.23,
+   0.18,
+   0.17
+  ],
+  "r_peak": 0.78,
+  "r_at_zero": 0.78
+ },
+ {
+  "point_zyx": [
+   16000,
+   4816,
+   3472
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.23,
+   0.18,
+   0.17
+  ],
+  "r_peak": 0.754,
+  "r_at_zero": 0.754
+ },
+ {
+  "point_zyx": [
+   19500,
+   2784,
+   2736
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.55,
+   -0.02,
+   -0.04
+  ],
+  "r_peak": 0.681,
+  "r_at_zero": 0.671
+ },
+ {
+  "point_zyx": [
+   19500,
+   2784,
+   2736
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.55,
+   -0.02,
+   -0.04
+  ],
+  "r_peak": 0.668,
+  "r_at_zero": 0.659
+ },
+ {
+  "point_zyx": [
+   19500,
+   2832,
+   3616
+  ],
+  "volume": "pag0",
+  "shift_dz_dy_dx": [
+   0.7,
+   0.01,
+   -0.07
+  ],
+  "r_peak": 0.579,
+  "r_at_zero": 0.548
+ },
+ {
+  "point_zyx": [
+   19500,
+   2832,
+   3616
+  ],
+  "volume": "pag50",
+  "shift_dz_dy_dx": [
+   0.68,
+   0.01,
+   -0.07
+  ],
+  "r_peak": 0.566,
+  "r_at_zero": 0.538
+ }
+]

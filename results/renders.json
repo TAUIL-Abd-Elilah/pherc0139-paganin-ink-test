@@ -1,0 +1,525 @@
+{
+ "20250831000000-w040_2025083102": {
+  "window_cells": [
+   160,
+   220,
+   216,
+   386
+  ],
+  "window_centre_zyx": [
+   6063,
+   3906,
+   2315
+  ],
+  "label_frac": 0.052,
+  "layers_ascend_inward": true,
+  "median_cos_layer_axis_to_centre": 0.902,
+  "offset_vs_standard": {
+   "pag50": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      -0.54,
+      -0.11,
+      0.04
+     ],
+     "r_peak": 0.748,
+     "r_at_zero": 0.745
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       -0.54,
+       -0.11,
+       0.04
+      ],
+      "residual_px_dy_dx": [
+       -0.263,
+       0.036
+      ],
+      "r": 0.768
+     },
+     {
+      "offset_dz_dy_dx": [
+       -0.283,
+       -0.061,
+       0.065
+      ],
+      "residual_px_dy_dx": [
+       -0.04,
+       0.014
+      ],
+      "r": 0.781
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.283,
+     -0.061,
+     0.065
+    ]
+   },
+   "pag0": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      -0.54,
+      -0.1,
+      0.04
+     ],
+     "r_peak": 0.783,
+     "r_at_zero": 0.78
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       -0.283,
+       -0.061,
+       0.065
+      ],
+      "residual_px_dy_dx": [
+       -0.04,
+       0.013
+      ],
+      "r": 0.788
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.283,
+     -0.061,
+     0.065
+    ]
+   }
+  },
+  "centre_vertex_zyx": [
+   6102,
+   3898,
+   1773
+  ],
+  "render_step_vox": {
+   "row_zyx": [
+    0.986,
+    0.056,
+    0.043
+   ],
+   "col_zyx": [
+    0.065,
+    -0.937,
+    -0.373
+   ]
+  }
+ },
+ "20260115000000-w044_2026011522": {
+  "window_cells": [
+   178,
+   238,
+   51,
+   221
+  ],
+  "window_centre_zyx": [
+   6479,
+   3705,
+   4159
+  ],
+  "label_frac": 0.1116,
+  "layers_ascend_inward": true,
+  "median_cos_layer_axis_to_centre": 0.94,
+  "offset_vs_standard": {
+   "pag50": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.26,
+      -0.07,
+      0.2
+     ],
+     "r_peak": 0.754,
+     "r_at_zero": 0.754
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       0.26,
+       -0.07,
+       0.2
+      ],
+      "residual_px_dy_dx": [
+       0.327,
+       -0.052
+      ],
+      "r": 0.738
+     },
+     {
+      "offset_dz_dy_dx": [
+       -0.069,
+       -0.026,
+       0.228
+      ],
+      "residual_px_dy_dx": [
+       0.05,
+       -0.024
+      ],
+      "r": 0.766
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.069,
+     -0.026,
+     0.228
+    ]
+   },
+   "pag0": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.26,
+      -0.07,
+      0.19
+     ],
+     "r_peak": 0.786,
+     "r_at_zero": 0.786
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       -0.069,
+       -0.026,
+       0.228
+      ],
+      "residual_px_dy_dx": [
+       0.049,
+       -0.025
+      ],
+      "r": 0.772
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.069,
+     -0.026,
+     0.228
+    ]
+   }
+  },
+  "centre_vertex_zyx": [
+   6493,
+   3722,
+   4572
+  ],
+  "render_step_vox": {
+   "row_zyx": [
+    1.002,
+    0.021,
+    -0.103
+   ],
+   "col_zyx": [
+    -0.031,
+    0.987,
+    -0.117
+   ]
+  }
+ },
+ "20260108000000-w041_2026010816": {
+  "window_cells": [
+   54,
+   114,
+   0,
+   170
+  ],
+  "window_centre_zyx": [
+   4102,
+   2643,
+   3954
+  ],
+  "label_frac": 0.0472,
+  "layers_ascend_inward": true,
+  "median_cos_layer_axis_to_centre": 0.917,
+  "offset_vs_standard": {
+   "pag50": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      -0.1,
+      0.02,
+      -0.02
+     ],
+     "r_peak": 0.826,
+     "r_at_zero": 0.826
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       -0.1,
+       0.02,
+       -0.02
+      ],
+      "residual_px_dy_dx": [
+       -0.128,
+       -0.003
+      ],
+      "r": 0.795
+     },
+     {
+      "offset_dz_dy_dx": [
+       0.021,
+       0.04,
+       -0.008
+      ],
+      "residual_px_dy_dx": [
+       -0.023,
+       0.002
+      ],
+      "r": 0.797
+     }
+    ],
+    "final_dz_dy_dx": [
+     0.021,
+     0.04,
+     -0.008
+    ]
+   },
+   "pag0": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      -0.1,
+      0.01,
+      -0.02
+     ],
+     "r_peak": 0.85,
+     "r_at_zero": 0.85
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       0.021,
+       0.04,
+       -0.008
+      ],
+      "residual_px_dy_dx": [
+       -0.024,
+       0.002
+      ],
+      "r": 0.796
+     }
+    ],
+    "final_dz_dy_dx": [
+     0.021,
+     0.04,
+     -0.008
+    ]
+   }
+  },
+  "centre_vertex_zyx": [
+   4143,
+   2541,
+   3981
+  ],
+  "render_step_vox": {
+   "row_zyx": [
+    0.948,
+    0.141,
+    0.074
+   ],
+   "col_zyx": [
+    -0.108,
+    0.495,
+    0.878
+   ]
+  }
+ },
+ "20260302000000-w039_2026030210": {
+  "window_cells": [
+   180,
+   240,
+   88,
+   258
+  ],
+  "window_centre_zyx": [
+   4270,
+   3992,
+   3818
+  ],
+  "label_frac": 0.0453,
+  "layers_ascend_inward": true,
+  "median_cos_layer_axis_to_centre": 0.917,
+  "offset_vs_standard": {
+   "pag50": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.73,
+      0.04,
+      0.01
+     ],
+     "r_peak": 0.807,
+     "r_at_zero": 0.77
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       0.73,
+       0.04,
+       0.01
+      ],
+      "residual_px_dy_dx": [
+       0.763,
+       0.014
+      ],
+      "r": 0.756
+     },
+     {
+      "offset_dz_dy_dx": [
+       -0.006,
+       -0.148,
+       -0.072
+      ],
+      "residual_px_dy_dx": [
+       0.046,
+       -0.004
+      ],
+      "r": 0.79
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.006,
+     -0.148,
+     -0.072
+    ]
+   },
+   "pag0": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.74,
+      0.04,
+      0.01
+     ],
+     "r_peak": 0.815,
+     "r_at_zero": 0.777
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       -0.006,
+       -0.148,
+       -0.072
+      ],
+      "residual_px_dy_dx": [
+       0.046,
+       -0.004
+      ],
+      "r": 0.789
+     }
+    ],
+    "final_dz_dy_dx": [
+     -0.006,
+     -0.148,
+     -0.072
+    ]
+   }
+  },
+  "centre_vertex_zyx": [
+   4202,
+   4056,
+   3830
+  ],
+  "render_step_vox": {
+   "row_zyx": [
+    0.963,
+    0.242,
+    0.124
+   ],
+   "col_zyx": [
+    0.078,
+    0.268,
+    -0.93
+   ]
+  }
+ },
+ "20260317000000-w035_2026031718": {
+  "window_cells": [
+   42,
+   102,
+   0,
+   170
+  ],
+  "window_centre_zyx": [
+   4135,
+   2920,
+   3788
+  ],
+  "label_frac": 0.0543,
+  "layers_ascend_inward": true,
+  "median_cos_layer_axis_to_centre": 0.892,
+  "offset_vs_standard": {
+   "pag50": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.02,
+      0.01,
+      -0.0
+     ],
+     "r_peak": 0.847,
+     "r_at_zero": 0.847
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       0.02,
+       0.01,
+       -0.0
+      ],
+      "residual_px_dy_dx": [
+       0.086,
+       0.003
+      ],
+      "r": 0.819
+     }
+    ],
+    "final_dz_dy_dx": [
+     0.02,
+     0.01,
+     -0.0
+    ]
+   },
+   "pag0": {
+    "from_3d_box": {
+     "dz_dy_dx": [
+      0.02,
+      0.01,
+      -0.0
+     ],
+     "r_peak": 0.865,
+     "r_at_zero": 0.865
+    },
+    "refinements": [
+     {
+      "offset_dz_dy_dx": [
+       0.02,
+       0.01,
+       -0.0
+      ],
+      "residual_px_dy_dx": [
+       0.086,
+       0.003
+      ],
+      "r": 0.818
+     }
+    ],
+    "final_dz_dy_dx": [
+     0.02,
+     0.01,
+     -0.0
+    ]
+   }
+  },
+  "centre_vertex_zyx": [
+   4152,
+   2889,
+   4215
+  ],
+  "render_step_vox": {
+   "row_zyx": [
+    0.993,
+    0.106,
+    0.063
+   ],
+   "col_zyx": [
+    -0.114,
+    0.791,
+    0.605
+   ]
+  }
+ }
+}
